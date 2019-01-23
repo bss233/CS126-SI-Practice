@@ -1,0 +1,16 @@
+Try to create the following functions
+Hint: You will need to import python's math library
+
+    A function that calculates the length of the hypotenuse of a right triangle given the length
+    of the other two sides
+
+    A function that calculates the length of a missing side of a triangle given
+    one side and the hypotenuse
+
+    A function that converts kilograms to stones
+
+    A function that checks if a given number is Even
+      - Should return True for even numbers and False for Odd numbers
+
+    A function that calculates the length hypotenuse of a right triangle given an angle degrees
+    and the length of the side opposite the angle
