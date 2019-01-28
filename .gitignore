@@ -1,10 +1,7 @@
-.tex
-<<<<<<< HEAD
+*.tex
 *~
-.log
-.aux
-=======
-.log
-.aux
+*.log
+*.aux
+*.log
+*.aux
 *~
->>>>>>> dev
