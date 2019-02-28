@@ -85,7 +85,7 @@ def rps():
 
 '''
 This function could (and probably should) be split up into about 5 other
-functions as to increase make it easier to follow what's going and to follow
+functions as to make it easier to follow what's going and to follow
 the DRY mantra better
 '''
 rps()
