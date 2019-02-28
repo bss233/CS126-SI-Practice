@@ -24,8 +24,8 @@ def ROT13 (word):
     return retWord
 
 
-print('This is a test string.')
-print(ROT13('This is a test string.'))
+print("I don't know...")
+print(ROT13("I don't know..."))
         
         
 
@@ -54,15 +54,4 @@ def ROT13_while (word):
 
 print(ROT13_while('This is a test string.'))
 
-
-
-# Rock Paper Scissors with a main menu
-
-def rps():
-    print("You may play any odd number of games less than 10")
-    numGames = input("Please enter the number of games you'd like to play")
-    while numGames not in range(1,10,2):
-        print("You may play any odd number of games less than 10")
-        numGames = input("Please enter the number of games you'd like to play")
-    pass
         
