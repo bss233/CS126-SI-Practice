@@ -45,10 +45,9 @@ def ROT13_while (word):
                 newNum -= 26 
             rotLetter = chr(newNum)
             retWord += rotLetter
-            itter += 1
         else:
             retWord += letter
-            itter += 1
+        itter += 1
     return retWord
 
 
